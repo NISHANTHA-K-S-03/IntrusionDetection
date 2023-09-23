@@ -1,1 +1,4 @@
 # IntrusionDetection
+An Online Intrusion Detection System (IDS) based on IP addresses is a critical cybersecurity tool designed to safeguard computer networks from unauthorized access and malicious activities. This IDS continuously monitors network traffic, analyzing IP addresses to detect suspicious behavior and potential threats. It employs various techniques, such as signature-based detection and anomaly detection, to identify known attack patterns and deviations from normal network behavior.
+
+When suspicious IP addresses are detected, the IDS can take immediate action, such as alerting administrators, blocking traffic from the malicious IP, or implementing firewall rules to mitigate the threat. By focusing on IP addresses, this IDS provides a granular view of network traffic, helping organizations identify and respond to potential security breaches promptly. It plays a crucial role in maintaining the integrity and security of modern digital networks.
